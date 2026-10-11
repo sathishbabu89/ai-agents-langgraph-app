@@ -1,5 +1,16 @@
+
 streamlit
 python-dotenv
-langchain-groq
+
+# LangChain and Groq
 langchain-core
+langchain-groq
+
+# Model Context Protocol
 mcp[cli]
+
+# Langfuse observability, prompt management, and experiments
+langfuse
+
+# Gemini LLM-as-a-Judge
+google-genai
